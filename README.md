@@ -1,4 +1,8 @@
-# BoltGroup
+![Project Image](./public/banner.png)
+
+Link: 
+
+# Pokedex - BoltGroup
 
 Este proyecto tiene como objetivo cubrir la prueba técnica de full stack.
 
@@ -7,6 +11,7 @@ Este proyecto tiene como objetivo cubrir la prueba técnica de full stack.
 - Gestión de paquetes: `pnpm`
 - Frontend: `Next JS`, `Tailwind CSS`
 - Backend: `Prisma`, `Postgres`
+- Libs: `React-hook-form`, `React Query`
 
 ## Configuración
 
