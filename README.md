@@ -1,6 +1,6 @@
 ![Project Image](./public/banner.png)
 
-Link: 
+Link: https://bolt-pokedex.vercel.app/
 
 # Pokedex - BoltGroup
 
