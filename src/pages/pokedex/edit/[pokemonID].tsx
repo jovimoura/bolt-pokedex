@@ -429,7 +429,7 @@ export default function Page() {
               <Button onClick={handleCancel} className="bg-white text-black">
                 Cancel
               </Button>
-              <Button type="submit">Save</Button>
+              <Button type="submit">Update</Button>
             </div>
           </form>
         </Form>
